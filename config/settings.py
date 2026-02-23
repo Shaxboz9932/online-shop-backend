@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-xn6zs)lr%%l=bysfw9toceu&=0dd5&gn91c5f=3ljn46yyn$hb
 DEBUG = True
 
 ALLOWED_HOSTS = ["online-shop-backend-dt1r.onrender.com"]
-
+CSRF_TRUSTED_ORIGINS = ["https://online-shop-backend-dt1r.onrender.com"]
 
 # Application definition
 
