@@ -1,0 +1,14 @@
+Review system:
+
+0. ID
+1. Rating -> (baholash) 1-5 yulduzcha
+2. Comment -> text
+3. Status -> { haqoratli, yolg'on, spam, active }
+4. User -> qaysi user tomonidan yozilgan
+5. Product -> qaysi maxsulotga
+6. Qachon_hosil_bulgan -> Date time format
+7. Image -> Maxsulotning rasmi
+
+Qoida
+1. 1ta User 1ta maxsulotga review qoldirish kerak.
+2. Maxsulotga review qoldirish faqat maxsulotni sotib olgan user

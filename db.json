@@ -1,0 +1,1245 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2026-01-03T05:27:34.710Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "2",
+    "object_repr": "Azamatov Shaxboz",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Last name\", \"First name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2026-01-03T05:27:43.109Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "1",
+    "object_repr": " ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2026-01-03T09:44:50.841Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "4",
+    "object_repr": "Azamatov Shaxboz",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2026-01-03T13:38:28.206Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Game NoteBook",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2026-01-03T13:38:38.704Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Asus",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2026-01-03T13:39:25.960Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "Ноутбук ASUS TUF Gaming A15, Ryzen 7 7445HS, RTX 3050 4GB, 8GB DDR5, 512GB, 15.6\" FHD IPS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2026-01-03T13:41:13.880Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "HP",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2026-01-03T13:41:41.494Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "HP Victus Gaming Laptop 15-fb3093dx",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2026-01-04T03:54:29.764Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "3",
+    "object_repr": "Test by postman",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2026-01-04T04:07:29.742Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "5",
+    "object_repr": "sadasdada dasdasfff",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2026-01-04T04:07:36.370Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "4",
+    "object_repr": "Test by postman asdddddddddddd",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2026-01-04T05:04:55.719Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "NoteBook",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2026-01-04T05:05:16.483Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "5",
+    "object_repr": "HP OmniBook 5 Flip 14-fp0013dx",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2026-01-04T05:05:55.677Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Lenovo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2026-01-04T05:06:15.858Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "Lenovo Legion 5 15IRX10",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2026-01-04T05:07:36.609Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "7",
+    "object_repr": "Lenovo IdeaPad Slim 5 14Q8X9",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2026-01-04T05:08:56.845Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Dell",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2026-01-04T05:09:16.667Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "8",
+    "object_repr": "Dell Pro 15 Essential",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2026-01-04T05:10:10.024Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "9",
+    "object_repr": "Dell Pro 16 Laptop",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2026-01-04T05:11:19.247Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Asus ROG Strix G18 G815JMR-S9050",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2026-01-04T10:07:14.631Z",
+    "user": 2,
+    "content_type": 12,
+    "object_id": "1",
+    "object_repr": "HP Victus Gaming Laptop 15-fb3093dx image",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2026-01-04T11:03:22.245Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "HP Victus Gaming Laptop 15-fb3093dx",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"product image\", \"object\": \"HP Victus Gaming Laptop 15-fb3093dx image\"}}, {\"added\": {\"name\": \"product image\", \"object\": \"HP Victus Gaming Laptop 15-fb3093dx image\"}}, {\"added\": {\"name\": \"product image\", \"object\": \"HP Victus Gaming Laptop 15-fb3093dx image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2026-01-04T11:55:33.360Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Asus ROG Strix G18 G815JMR-S9050",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"product image\", \"object\": \"Asus ROG Strix G18 G815JMR-S9050 image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2026-01-05T15:51:03.116Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "11",
+    "object_repr": "Test by postman by simple user",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2026-01-10T14:27:04.157Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "6",
+    "object_repr": "Doe John",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2026-01-11T11:32:48.179Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "12",
+    "object_repr": "ASUS TUF Gaming FA506N, AMD Ryzen 7 7435HS, 8/512 ГБ, RTX2050, 15,6\" FHD IPS 144 Гц + Windows",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"ASUS TUF Gaming FA506N, AMD Ryzen 7 7435HS, 8/512 \\u0413\\u0411, RTX2050, 15,6\\\" FHD IPS 144 \\u0413\\u0446 + Windows image\"}}, {\"added\": {\"name\": \"product image\", \"object\": \"ASUS TUF Gaming FA506N, AMD Ryzen 7 7435HS, 8/512 \\u0413\\u0411, RTX2050, 15,6\\\" FHD IPS 144 \\u0413\\u0446 + Windows image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2026-01-11T11:34:13.372Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Acer",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2026-01-11T11:35:47.842Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "13",
+    "object_repr": "Acer NitroV15 i5-ANV15-51 DDR5 8ГБ, SSD 512ГБ, RTX2050 4 ГБ, 15.6\" FHD IPS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Acer NitroV15 i5-ANV15-51 DDR5 8\\u0413\\u0411, SSD 512\\u0413\\u0411, RTX2050 4 \\u0413\\u0411, 15.6\\\" FHD IPS image\"}}, {\"added\": {\"name\": \"product image\", \"object\": \"Acer NitroV15 i5-ANV15-51 DDR5 8\\u0413\\u0411, SSD 512\\u0413\\u0411, RTX2050 4 \\u0413\\u0411, 15.6\\\" FHD IPS image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2026-01-11T11:38:03.481Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "14",
+    "object_repr": "Acer Aspire 5 A515-58P (Intel Core i5-1335U/ DDR5 16GB/ SSD 512GB/ 15.6 FHD IPS / Intel Iris Xe Graphics",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Acer Aspire 5 A515-58P (Intel Core i5-1335U/ DDR5 16GB/ SSD 512GB/ 15.6 FHD IPS / Intel Iris Xe Graphics image\"}}, {\"added\": {\"name\": \"product image\", \"object\": \"Acer Aspire 5 A515-58P (Intel Core i5-1335U/ DDR5 16GB/ SSD 512GB/ 15.6 FHD IPS / Intel Iris Xe Graphics image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2026-01-11T11:52:00.107Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "5",
+    "object_repr": "HP OmniBook 5 Flip 14-fp0013dx",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"product image\", \"object\": \"HP OmniBook 5 Flip 14-fp0013dx image\"}}, {\"added\": {\"name\": \"product image\", \"object\": \"HP OmniBook 5 Flip 14-fp0013dx image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2026-01-11T11:52:49.228Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "Lenovo Legion 5 15IRX10",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"product image\", \"object\": \"Lenovo Legion 5 15IRX10 image\"}}, {\"added\": {\"name\": \"product image\", \"object\": \"Lenovo Legion 5 15IRX10 image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2026-01-11T11:53:40.825Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "7",
+    "object_repr": "Lenovo IdeaPad Slim 5 14Q8X9",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"product image\", \"object\": \"Lenovo IdeaPad Slim 5 14Q8X9 image\"}}, {\"added\": {\"name\": \"product image\", \"object\": \"Lenovo IdeaPad Slim 5 14Q8X9 image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2026-01-11T11:54:24.461Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "8",
+    "object_repr": "Dell Pro 15 Essential",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"product image\", \"object\": \"Dell Pro 15 Essential image\"}}, {\"added\": {\"name\": \"product image\", \"object\": \"Dell Pro 15 Essential image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2026-01-11T11:54:29.710Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "9",
+    "object_repr": "Dell Pro 16 Laptop",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2026-01-11T12:51:27.913Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "Lenovo Legion 5 15IRX10",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"product image\", \"object\": \"Lenovo Legion 5 15IRX10 image\", \"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2026-01-11T17:00:57.393Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Asus ROG Strix G18 G815JMR-S9050",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"product image\", \"object\": \"Asus ROG Strix G18 G815JMR-S9050 image\", \"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2026-01-11T17:01:59.744Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Asus ROG Strix G18 G815JMR-S9050",
+    "action_flag": 2,
+    "change_message": "[{\"deleted\": {\"name\": \"product image\", \"object\": \"Asus ROG Strix G18 G815JMR-S9050 image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2026-01-11T17:02:10.812Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Asus ROG Strix G18 G815JMR-S9050",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"product image\", \"object\": \"Asus ROG Strix G18 G815JMR-S9050 image\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2026-01-11T18:34:08.306Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Asus ROG Strix G18 G815JMR-S9050",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"product image\", \"object\": \"Asus ROG Strix G18 G815JMR-S9050 image\", \"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2026-01-11T18:38:30.894Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "10",
+    "object_repr": "Asus ROG Strix G18 G815JMR-S9050",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"product image\", \"object\": \"Asus ROG Strix G18 G815JMR-S9050 image\", \"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2026-01-11T18:40:08.280Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "5",
+    "object_repr": "HP OmniBook 5 Flip 14-fp0013dx",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"product image\", \"object\": \"HP OmniBook 5 Flip 14-fp0013dx image\", \"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2026-01-11T18:52:56.325Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "Lenovo Legion 5 15IRX10",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"product image\", \"object\": \"Lenovo Legion 5 15IRX10 image\", \"fields\": [\"Image\"]}}, {\"changed\": {\"name\": \"product image\", \"object\": \"Lenovo Legion 5 15IRX10 image\", \"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2026-01-12T07:35:15.411Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "15",
+    "object_repr": "HP OMEN 16 Gaming Laptop 16",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"HP OMEN 16 Gaming Laptop 16 image\"}}, {\"added\": {\"name\": \"product image\", \"object\": \"HP OMEN 16 Gaming Laptop 16 image\"}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 3,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 3,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 3,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 3,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 2,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 2,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 2,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 2,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 4,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 4,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 4,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 4,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 5,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 5,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 5,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 5,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 6,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 6,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 6,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 6,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add Blacklisted Token",
+    "content_type": 7,
+    "codename": "add_blacklistedtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change Blacklisted Token",
+    "content_type": 7,
+    "codename": "change_blacklistedtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete Blacklisted Token",
+    "content_type": 7,
+    "codename": "delete_blacklistedtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view Blacklisted Token",
+    "content_type": 7,
+    "codename": "view_blacklistedtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add Outstanding Token",
+    "content_type": 8,
+    "codename": "add_outstandingtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change Outstanding Token",
+    "content_type": 8,
+    "codename": "change_outstandingtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete Outstanding Token",
+    "content_type": 8,
+    "codename": "delete_outstandingtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view Outstanding Token",
+    "content_type": 8,
+    "codename": "view_outstandingtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add brand",
+    "content_type": 9,
+    "codename": "add_brand"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change brand",
+    "content_type": 9,
+    "codename": "change_brand"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete brand",
+    "content_type": 9,
+    "codename": "delete_brand"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view brand",
+    "content_type": 9,
+    "codename": "view_brand"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add category",
+    "content_type": 10,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change category",
+    "content_type": 10,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete category",
+    "content_type": 10,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view category",
+    "content_type": 10,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add product",
+    "content_type": 11,
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change product",
+    "content_type": 11,
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete product",
+    "content_type": 11,
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view product",
+    "content_type": 11,
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add product image",
+    "content_type": 12,
+    "codename": "add_productimage"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change product image",
+    "content_type": 12,
+    "codename": "change_productimage"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete product image",
+    "content_type": 12,
+    "codename": "delete_productimage"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view product image",
+    "content_type": 12,
+    "codename": "view_productimage"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "users",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "token_blacklist",
+    "model": "blacklistedtoken"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "token_blacklist",
+    "model": "outstandingtoken"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "product",
+    "model": "brand"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "product",
+    "model": "category"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "product",
+    "model": "product"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "product",
+    "model": "productimage"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "agw7ol7ldu7mmsvy3ywym5kbooux20w2",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hCYFgSX7nsGMgODVA0kpV0Z765NutDtf-_9lwi4rSVsnZcwJ3ERIE6_G2F8cN1BumO9NRlbXZeZ5K7Ig3Y5tcTP6-H-HRTs5VtrlTlqYyIardgS-DQSDl5hykDjOQ8cyWgPDNYiAXifNGayzjnOoMX7A_YZOFU:1vbu9V:Av1aYoCiMxIxNztM3NSM4xd3ZxmQwg_5qFC1P92ReJk",
+    "expire_date": "2026-01-17T05:26:13.184Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zg9fncgjjieol4nlvlaopmgqppkabbv4",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hCYFgSX7nsGMgODVA0kpV0Z765NutDtf-_9lwi4rSVsnZcwJ3ERIE6_G2F8cN1BumO9NRlbXZeZ5K7Ig3Y5tcTP6-H-HRTs5VtrlTlqYyIardgS-DQSDl5hykDjOQ8cyWgPDNYiAXifNGayzjnOoMX7A_YZOFU:1vc40E:O0VvmPJlTplPurahzxMArcvWT-q2uGGttLemCuISulA",
+    "expire_date": "2026-01-17T15:57:18.345Z"
+  }
+},
+{
+  "model": "users.user",
+  "pk": 2,
+  "fields": {
+    "last_login": "2026-01-03T15:57:18.337Z",
+    "last_name": "Azamatov",
+    "first_name": "Shaxboz",
+    "username": "root",
+    "email": "test@test.uz",
+    "password": "pbkdf2_sha256$1200000$z0hRNCFutXgVDgcACTAEgj$5iMrlhx/eh2jt6RhOQFzuwCQS38BbsiEpzBYDU5o7ZQ=",
+    "is_active": true,
+    "is_superuser": true,
+    "is_staff": true,
+    "created": "2026-01-03T05:27:34.705Z",
+    "updated": "2026-01-03T05:25:59.767Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 3,
+  "fields": {
+    "last_login": null,
+    "last_name": "Azamatov",
+    "first_name": "Shaxboz",
+    "username": "shaxboz",
+    "email": "sshhaazzbboozz9199@gmail.com",
+    "password": "pbkdf2_sha256$1200000$63n38Ls1gPLbcBkj0zu7Mc$1Z7vU6cBYi5aUZO6o9zMOsu9pGr5v8xOaPkR9mcGFVg=",
+    "is_active": true,
+    "is_superuser": false,
+    "is_staff": false,
+    "created": "2026-01-03T08:37:39.881Z",
+    "updated": "2026-01-03T08:37:39.881Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 7,
+  "fields": {
+    "last_login": null,
+    "last_name": "Ivanov",
+    "first_name": "Ivan",
+    "username": "ivan",
+    "email": "ivan@ivan.com",
+    "password": "pbkdf2_sha256$1200000$xGgiTWdrptl3fjeCNVWdE9$+5JT3pWgfivzfZrfQjjWg5dUv+JKNsmBCi8DOI8BBck=",
+    "is_active": true,
+    "is_superuser": false,
+    "is_staff": false,
+    "created": "2026-01-10T14:32:24.996Z",
+    "updated": "2026-01-10T14:32:24.996Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "product.category",
+  "pk": 1,
+  "fields": {
+    "title": "Game NoteBook"
+  }
+},
+{
+  "model": "product.category",
+  "pk": 2,
+  "fields": {
+    "title": "NoteBook"
+  }
+},
+{
+  "model": "product.brand",
+  "pk": 1,
+  "fields": {
+    "title": "Asus"
+  }
+},
+{
+  "model": "product.brand",
+  "pk": 2,
+  "fields": {
+    "title": "HP"
+  }
+},
+{
+  "model": "product.brand",
+  "pk": 3,
+  "fields": {
+    "title": "Lenovo"
+  }
+},
+{
+  "model": "product.brand",
+  "pk": 4,
+  "fields": {
+    "title": "Dell"
+  }
+},
+{
+  "model": "product.brand",
+  "pk": 5,
+  "fields": {
+    "title": "Acer"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 2,
+  "fields": {
+    "title": "HP Victus Gaming Laptop 15-fb3093dx",
+    "category": 1,
+    "brand": 2,
+    "price": 8174000.0,
+    "description": "HP Victus Gaming Laptop 15-fb3093dx — мощный игровой ноутбук с 15.6-дюймовым FHD IPS дисплеем 144 Гц. Он оснащён процессором AMD Ryzen 7 7445HS и видеокартой NVIDIA GeForce RTX 4050 с 6 ГБ видеопамяти, обеспечивая комфортную игру в топовые проекты. 16 ГБ DDR5 и скоростной SSD PCIe 4.0 на 512 ГБ отвечают за высокую производительность. Корпус в цвете Mica Silver, клавиатура с подсветкой и батарея на 70 Вт·ч превращают его в сбалансированное решение для геймеров.",
+    "created": "2026-01-04T11:03:22.226Z",
+    "updated": "2026-01-03T13:41:41.492Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 5,
+  "fields": {
+    "title": "HP OmniBook 5 Flip 14-fp0013dx",
+    "category": 2,
+    "brand": 2,
+    "price": 6100000.0,
+    "description": "HP OmniBook 5 Flip 14 — это стильный трансформируемый ноутбук с 14-дюймовым 2K IPS сенсорным экраном (16:10). Он оснащён процессором Intel Core5-120U, 8 ГБ LPDDR5 памяти и SSD на 512 ГБ. Лёгкий алюминиевый корпус, аккумулятор на 68 Вт·ч и клавиатура с подсветкой делают его удобным решением для работы и учёбы.",
+    "created": "2026-01-11T18:40:08.148Z",
+    "updated": "2026-01-04T05:05:16.481Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 6,
+  "fields": {
+    "title": "Lenovo Legion 5 15IRX10",
+    "category": 1,
+    "brand": 3,
+    "price": 21118200.0,
+    "description": 
